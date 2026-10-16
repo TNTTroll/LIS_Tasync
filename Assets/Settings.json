@@ -1,0 +1,6 @@
+{
+    "model": "gemma4:31b-cloud",
+    "permittedFiles": [
+        ".obsidian"
+    ]
+}

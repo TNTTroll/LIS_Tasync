@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pydub" />
+          <option value="tuya-connector-python" />
+          <option value="asttokens" />
+          <option value="backcall" />
+          <option value="bleach" />
+          <option value="ddgs" />
+          <option value="decorator" />
+          <option value="defusedxml" />
+          <option value="docopt" />
+          <option value="dotenv" />
+          <option value="fake-useragent" />
+          <option value="fastjsonschema" />
+          <option value="ipython" />
+          <option value="jedi" />
+          <option value="jsonpath-ng" />
+          <option value="jupyter_client" />
+          <option value="jupyter_core" />
+          <option value="jupyterlab_pygments" />
+          <option value="langgraph" />
+          <option value="langgraph-checkpoint" />
+          <option value="langgraph-checkpoint-redis" />
+          <option value="langgraph-prebuilt" />
+          <option value="langgraph-sdk" />
+          <option value="matplotlib-inline" />
+          <option value="mistune" />
+          <option value="ml_dtypes" />
+          <option value="nbclient" />
+          <option value="nbconvert" />
+          <option value="nbformat" />
+          <option value="ormsgpack" />
+          <option value="pandocfilters" />
+          <option value="parso" />
+          <option value="pickleshare" />
+          <option value="primp" />
+          <option value="pure_eval" />
+          <option value="python-ulid" />
+          <option value="pyzmq" />
+          <option value="redisvl" />
+          <option value="socksio" />
+          <option value="stack-data" />
+          <option value="tinycss2" />
+          <option value="tornado" />
+          <option value="traitlets" />
+          <option value="webencodings" />
+          <option value="yarg" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
